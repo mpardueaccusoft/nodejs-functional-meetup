@@ -1,13 +1,14 @@
 {
-  "name": "functional-programming",
+  "name": "nodejs-functional-meetup",
   "version": "1.0.0",
   "description": "functional programming demo",
+  "private": true,
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Michael Pardue <mpardue@accusoft.com>",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "eslint": "^3.1.1"
   }
